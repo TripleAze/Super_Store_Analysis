@@ -30,8 +30,8 @@ To set up the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/superstore-sales-analysis.git
-   cd superstore-sales-analysis
+  git clone https://github.com/yourusername/Super_Store_Analysis.git
+   cd Super_Store_Analysis
    ```
 
 2. **Install the required libraries**:
@@ -49,7 +49,9 @@ python analysis.py
 You can also modify the script to visualize specific aspects of the dataset. For example, to visualize sales trends, you can use:
 ```python
 import matplotlib.pyplot as plt
-# Your visualization code here
+region_analysis = df.groupby('Region')[['Sales', 'Profit']].sum()
+region_analysis.plot(kind='bar', title='Sales and Profit by Region', rot= 45)
+
 ```
 ## 4. **Data Structure Overview**
 - **Source**: [Superstore Dataset from Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
@@ -70,7 +72,6 @@ Here are some visualizations generated from the analysis:
 
 ![Sales and Profit by Segment](https://github.com/TripleAze/Super_Store_Analysis/blob/main/visualizations/sales_profit_by_category.png)
 
-*(Make sure to replace the image paths with actual paths to your visualizations.)*
 
 ## 6. **Executive Summary**
 This analysis highlights critical insights into the Superstore's sales and profit landscape, revealing:
@@ -161,3 +162,44 @@ The correlation matrix provides insights into the relationships between key busi
 8. **Replicate Success in Top Cities**: Replicate successful sales strategies used in **New York City**, including targeted marketing, premium product promotions, and customer engagement, in other high-potential cities.
 
 9. **Replicate Yearly Growth Trends**: Analyze the strategies employed in **2017** that led to the peak performance, such as specific promotions or product offerings, and apply these to replicate the growth in future years.
+
+
+
+### 9. **Contributing Guidelines**
+
+```markdown
+## 9. Contributing Guidelines
+
+We welcome contributions to enhance this project! To maintain a collaborative and productive environment, please follow these guidelines:
+
+### How to Contribute
+
+1. **Fork the Repository**: Start by forking the repository to your own GitHub account. This allows you to make changes without affecting the original project.
+
+2. **Clone Your Fork**: Clone your forked repository to your local machine using:
+   ```bash
+   git clone https://github.com/yourusername/Super_Store_Analysis.git
+   ```
+
+3. **Create a New Branch**: Before making any changes, create a new branch for your feature or bug fix:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **Make Your Changes**: Implement your changes or add new features. Ensure your code is clean, well-documented, and follows the project's coding style.
+
+5. **Run Tests**: If applicable, run any tests to ensure your changes do not break existing functionality.
+
+6. **Commit Your Changes**: Commit your changes with a clear and descriptive message:
+   ```bash
+   git commit -m "Add a brief description of your changes"
+   ```
+
+7. **Push to Your Fork**: Push your changes to your forked repository:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+8. **Create a Pull Request**: Go to the original repository and click on "New Pull Request." Select your branch and submit the pull request for review.
+
+
