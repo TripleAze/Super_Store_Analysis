@@ -50,6 +50,7 @@ You can also modify the script to visualize specific aspects of the dataset. For
 ```python
 import matplotlib.pyplot as plt
 # Your visualization code here
+![Alt text(https://github.com/TripleAze/Super_Store_Analysis/blob/main/visualizations/sales_profit_by_category.png)
 ```
 
 ## 4. **Data Structure Overview**
