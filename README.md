@@ -31,8 +31,8 @@ To set up the project, follow these steps:
 1. **Clone the repository**:
    ```bash
   git clone https://github.com/yourusername/Super_Store_Analysis.git
-   cd Super_Store_Analysis
-   ```
+  cd Super_Store_Analysis
+  
 
 2. **Install the required libraries**:
    ```bash
@@ -167,7 +167,7 @@ The correlation matrix provides insights into the relationships between key busi
 
 ### 9. **Contributing Guidelines**
 
-```markdown
+
 ## 9. Contributing Guidelines
 
 We welcome contributions to enhance this project! To maintain a collaborative and productive environment, please follow these guidelines:
