@@ -64,27 +64,27 @@ These trends highlight a steady growth pattern with strong end-of-year performan
 - **Top Products**: The **Canon imageCLASS 2200 Advanced Copier**, among other high-end technology products, generated **$25K** in profit, contributing **20%** of total profit.
 - **Low-Profit Products**: Certain office supplies are showing negative or minimal profits, suggesting they may need to be removed from the product line or reevaluated for better margins.
 
-### 🚚 **Shipping Modes Performance**  
+### **Shipping Modes Performance**  
 The analysis of shipping modes reveals key insights into their impact on sales, profit, and delivery efficiency:  
 
-- **📦 Standard Class**: The most utilized shipping method, generating **$1,358,216** in sales and **$164,089** in profit. However, it has the longest average shipping time of **5.0 days**.  
-- **✈️ Second Class**: Contributes **$459,194** in sales and **$57,447** in profit, with an average delivery time of **3.2 days**.  
-- **🚀 First Class**: Provides a balance between speed and revenue, generating **$351,428** in sales and **$48,970** in profit, with a delivery time of **2.2 days**.  
-- **⚡ Same Day**: The fastest option (**0.0 days**) but has the lowest sales (**$128,363**) and profit (**$15,892**), indicating it is less frequently chosen.  
+- **Standard Class**: The most utilized shipping method, generating **$1,358,216** in sales and **$164,089** in profit. However, it has the longest average shipping time of **5.0 days**.  
+- **Second Class**: Contributes **$459,194** in sales and **$57,447** in profit, with an average delivery time of **3.2 days**.  
+- **First Class**: Provides a balance between speed and revenue, generating **$351,428** in sales and **$48,970** in profit, with a delivery time of **2.2 days**.  
+- **Same Day**: The fastest option (**0.0 days**) but has the lowest sales (**$128,363**) and profit (**$15,892**), indicating it is less frequently chosen.  
 
-📊 **Key Takeaway**: While **Standard Class** dominates in sales and profit, faster shipping options like **First Class and Same Day** might be leveraged for premium customer experiences.
+**Key Takeaway**: While **Standard Class** dominates in sales and profit, faster shipping options like **First Class and Same Day** might be leveraged for premium customer experiences.
 
 
-### 📈 **Correlation Analysis**  
+###  **Correlation Analysis**  
 
 The correlation matrix provides insights into the relationships between key business metrics:  
 
-- **💰 Sales & Profit**: A moderate positive correlation (**0.48**) suggests that higher sales generally lead to higher profits, but other factors influence profitability.  
-- **🎟️ Discount & Profit**: A negative correlation (**-0.22**) indicates that increasing discounts tends to reduce profit margins, emphasizing the need for strategic discounting.  
-- **📦 Quantity & Sales**: A weak positive correlation (**0.20**) shows that selling more units slightly increases sales, though other factors like pricing and demand play a role.  
-- **⚖️ Discount & Sales**: Almost no correlation (**-0.03**), suggesting that discounts do not significantly impact total sales volume.  
+- **Sales & Profit**: A moderate positive correlation (**0.48**) suggests that higher sales generally lead to higher profits, but other factors influence profitability.  
+- **Discount & Profit**: A negative correlation (**-0.22**) indicates that increasing discounts tends to reduce profit margins, emphasizing the need for strategic discounting.  
+- **Quantity & Sales**: A weak positive correlation (**0.20**) shows that selling more units slightly increases sales, though other factors like pricing and demand play a role.  
+- **Discount & Sales**: Almost no correlation (**-0.03**), suggesting that discounts do not significantly impact total sales volume.  
 
-📊 **Key Takeaway**: While increasing sales can boost profit, excessive discounting negatively impacts profitability. A balanced pricing strategy is essential for sustainable growth.
+**Key Takeaway**: While increasing sales can boost profit, excessive discounting negatively impacts profitability. A balanced pricing strategy is essential for sustainable growth.
 
 
 ## 5. **Recommendations**
