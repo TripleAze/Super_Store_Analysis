@@ -50,8 +50,6 @@ You can also modify the script to visualize specific aspects of the dataset. For
 ```python
 import matplotlib.pyplot as plt
 # Your visualization code here
-![Alt text(https://github.com/TripleAze/Super_Store_Analysis/blob/main/visualizations/sales_profit_by_category.png)
-```
 
 ## 4. **Data Structure Overview**
 - **Source**: [Superstore Dataset from Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
@@ -65,9 +63,12 @@ import matplotlib.pyplot as plt
   - **Regional Details**: City, state, and region.
 
 ## 5. **Visualizations**
-Here are some key visualizations from the analysis:
-- **Sales and Profit Trends**: ![Sales and Profit Trends](path/to/your/visualization.png)
-- **Category Performance**: ![Category Performance](path/to/your/visualization.png)
+
+Here are some visualizations generated from the analysis:
+
+![Sales and Profit by Category](https://github.com/TripleAze/Super_Store_Analysis/blob/main/visualizations/sales_profit_by_segment.png)
+
+![Sales and Profit by Segment](https://github.com/TripleAze/Super_Store_Analysis/blob/main/visualizations/sales_profit_by_category.png)
 
 *(Make sure to replace the image paths with actual paths to your visualizations.)*
 
