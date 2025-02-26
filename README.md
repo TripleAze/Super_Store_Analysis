@@ -30,9 +30,9 @@ To set up the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-  git clone https://github.com/yourusername/Super_Store_Analysis.git
-  cd Super_Store_Analysis
-  
+   git clone https://github.com/yourusername/Super_Store_Analysis.git
+   cd Super_Store_Analysis
+   ```
 
 2. **Install the required libraries**:
    ```bash
